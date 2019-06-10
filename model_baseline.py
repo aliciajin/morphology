@@ -1,3 +1,7 @@
+## Baseline model for project morphology
+## Author: Yiqian Jin(aliciajin)
+## Date: May 29th 2019
+
 import tensorflow as tf
 import pandas as pd
 import matplotlib.pyplot as plt
