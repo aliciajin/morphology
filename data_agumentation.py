@@ -1,3 +1,8 @@
+## Helper script to do minority class data augmentation, image level
+## Author: Yiqian Jin(aliciajin)
+## Date: May 29th 2019
+
+
 from os import listdir
 from os.path import isfile, join
 # import tensorflow as tf 
