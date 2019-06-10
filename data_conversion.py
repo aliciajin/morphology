@@ -1,4 +1,4 @@
-### Script to convert image data to tf.train.Example to feed into tensorflow object detection model.
+### Script to convert image data to tf.train.Example to feed into Tensorflow Object Detection API (https://github.com/aliciajin/models/tree/master/research/object_detection)
 ### Partially based on: https://github.com/swirlingsand/deeper-traffic-lights/blob/master/data_conversion_bosch.py
 ### Author: Yiqian Jin(aliciajin)
 ### Date: May 2019 
