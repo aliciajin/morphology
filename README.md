@@ -24,4 +24,8 @@ https://github.com/pytorch/tutorials/blob/master/beginner_source/transfer_learni
 https://github.com/pytorch/vision/tree/master/torchvision/models
 https://www.programcreek.com/python/example/108005/torchvision.models.alexnet
 
+
+Yiqian worked on:
+1. Preliminary Method 2
+2. Advanced Method (SSD & RCNN)
 Object Detection with Tensorflow Object Detection API https://github.com/tensorflow/models/tree/master/research/object_detection
