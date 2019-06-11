@@ -19,6 +19,9 @@ resnet_alex_vgg.ipynb
 v2_resnet_alex_vgg.ipynb
 Noor modified sections to upload the sperm data, apply augmentations, change epochs, losses, hyperparameters to assess precision/recall, to review the prediction accuracy and to use tensorboard, collaborated with Yiqian.
 Adapted from:
-
+https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+https://github.com/pytorch/tutorials/blob/master/beginner_source/transfer_learning_tutorial.py
+https://github.com/pytorch/vision/tree/master/torchvision/models
+https://www.programcreek.com/python/example/108005/torchvision.models.alexnet
 
 Object Detection with Tensorflow Object Detection API https://github.com/tensorflow/models/tree/master/research/object_detection
